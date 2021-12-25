@@ -1,0 +1,10 @@
+.heading {
+    font-size: large;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.timer {
+    font-size: medium;
+    padding: 0 1rem;
+}
